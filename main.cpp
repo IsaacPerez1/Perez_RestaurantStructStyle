@@ -1,4 +1,6 @@
 //Isaac Perez a restaurant structure style
+//Dr_T programmng fundaments 2
+//using structures and vectors to create a restaraunt menu
 #include <iostream>
 #include<string>
 #include<vector>
